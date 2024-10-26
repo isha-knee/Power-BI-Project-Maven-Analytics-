@@ -4,8 +4,9 @@ Adventure Works Power BI project
 
 ## Key Features – 
 
-**Interactive Filters: Slicers and KPIs showing the revenue generation, overall profits, total number of orders for the year 2020-2022. 
-**Main Visuals Included: 
+## Interactive Filters: Slicers and KPIs showing the revenue generation, overall profits, total number of orders for the year 2020-2022. 
+
+## Main Visuals Included: 
 Line Chart: Shows the trends in revenue generation from Jan 2020-Dec 2022. 
 Bar Chart: Showing the most ordered products based on category of product. 
 Matrix Visual: Shows the Top 10 products that have been ordered, the revenue generated through them and their percentage returns incase of damages. It also gives information on the Top 100 customers of Adventure Works. 
